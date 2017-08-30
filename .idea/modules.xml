@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exam.iml" filepath="$PROJECT_DIR$/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wangchengen1506A20170825/Wangchengen1506A20170825.iml" filepath="$PROJECT_DIR$/Wangchengen1506A20170825/Wangchengen1506A20170825.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slindingmenu/slindingmenu.iml" filepath="$PROJECT_DIR$/slindingmenu/slindingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlsitview/xlsitview.iml" filepath="$PROJECT_DIR$/xlsitview/xlsitview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\AndroidStudioProject\Exam\slindingmenu\assets"/><source path="F:\AndroidStudioProject\Exam\slindingmenu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\AndroidStudioProject\Exam\slindingmenu\src\debug\assets"/></dataSet></merger>
